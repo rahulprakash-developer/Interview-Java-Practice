@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.example.MultiSourceExample</groupId>
+  <artifactId>SpringBootMultiDataSourceExample</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200504075328</lastUpdated>
+  </versioning>
+</metadata>
