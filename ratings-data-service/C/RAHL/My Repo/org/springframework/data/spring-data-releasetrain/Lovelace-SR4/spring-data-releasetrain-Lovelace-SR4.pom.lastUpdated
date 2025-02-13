@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 04 13:39:19 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1585987759566
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Lovelace-SR4 from/to central (https\://repo.maven.apache.org/maven2)\: java.lang.RuntimeException\: Unexpected error\: java.security.InvalidAlgorithmParameterException\: the trustAnchors parameter must be non-empty
